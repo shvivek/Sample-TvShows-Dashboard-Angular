@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { ContentService } from './../../_services/content.service';
-import { TvShowPerformanceChartComponent } from './charts/tv-show-performance-chart.component';
+import { TvShowPerformanceChartComponent } from '../../_charts/tv-show-performance-chart.component';
 
 @Component({
   selector: 'app-show-details',

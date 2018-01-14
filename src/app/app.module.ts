@@ -12,7 +12,7 @@ import { ShowsComponent } from './shows/shows.component';
 import { ShowDetailsComponent } from './shows/show-details/show-details.component';
 import { ContentService } from './_services/content.service';
 import { AuthService } from './_services/auth.service';
-import { TvShowPerformanceChartComponent } from './shows/show-details/charts/tv-show-performance-chart.component';
+import { TvShowPerformanceChartComponent } from './_charts/tv-show-performance-chart.component';
 import { HeaderComponent } from './header/header.component';
 
 @NgModule({
